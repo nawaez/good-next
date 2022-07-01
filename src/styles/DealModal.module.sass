@@ -1,0 +1,97 @@
+
+.dealModal
+  position: fixed
+  top: 0
+  width: 100%
+  height: 100%
+  background: rgba(0,0,0,0.4)
+  z-index: 800
+  display: flex
+  align-items: center
+  justify-content: center
+
+  .container
+    position: relative
+    display: flex
+    flex-direction: column
+    width: 100%
+    max-width: 660px
+    min-height: 310px
+    text-align: center
+    background: #CFEFFF
+    color: #212121
+
+  .text
+    margin: 60px auto 40px
+    width: 80%
+    min-height: 30px
+    font: 400 16px Roboto, Helvetica
+    overflow: hidden
+    text-overflow: ellipsis
+
+  .couponContainer, .dealContainer
+    background: #CFEFFF
+
+  .couponContainer
+    display: flex
+    flex-direction: column
+    font: 18px Roboto
+
+  .codeContainer
+    display: flex
+    justify-content: center
+    margin: auto auto 25px
+    max-width: 600px
+    height: 50px
+    border-radius: 5px
+    overflow: hidden
+
+  .codeInput
+    position: absolute
+    left: -99999px
+
+  .code
+    padding: 0 10px
+    border: none
+    min-width: 180px
+    height: 50px
+    background: white
+    font: 18px Roboto
+    line-height: 50px
+
+  .copyButton
+    width: 150px
+    height: 100%
+    background: #007A87
+    color: white
+    line-height: 50px
+    cursor: pointer
+
+  .subtitle
+    font: 300 14px Roboto, Helvetica
+    margin-bottom: 16px
+
+  .shopAtLink
+    color: #139BE8
+    font: 300 24px Roboto, Helvetica
+    margin-bottom: 20px
+    cursor: pointer
+
+  .shopAtButton
+    margin: auto auto 20px
+    max-width: 200px
+    height: 50px
+    border-radius: 4px
+    color: white
+    background: #007A87
+    font: 300 16px Roboto
+    line-height: 50px
+    cursor: pointer
+
+  .closeButton
+    position: absolute
+    right: 10px
+    top: 10px
+    width: 20px
+    height: 28px
+    content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='21px' height='20px' viewBox='0 0 21 20' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3C!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch --%3E%3Ctitle%3EClose Icon%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cdefs%3E%3C/defs%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' stroke-linecap='square'%3E%3Cg id='Print-share-save-popup-480' transform='translate(-449.000000, -10.000000)' stroke='%234D4D4D' stroke-width='2'%3E%3Cg id='Group-8'%3E%3Cg id='Close-Icon' transform='translate(459.213203, 20.213203) rotate(-45.000000) translate(-459.213203, -20.213203) translate(447.213203, 8.213203)'%3E%3Cpath d='M12.0727922,0.273718249 L12.0727922,23.9999846' id='Line'%3E%3C/path%3E%3Cpath d='M23.5930387,11.6923077 L0.46127398,11.6923077' id='Line-2'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E")

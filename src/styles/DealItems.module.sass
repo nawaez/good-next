@@ -1,0 +1,215 @@
+.dealItems
+  padding: 16px
+.dealItem
+  position: relative
+  margin: 10px auto
+  display: flex
+  border-radius: 10px
+  min-height: 108px
+  border: 1px solid #dcdde0
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1), 0 8px 25px rgba(83, 89, 144, 0.07)
+  cursor: pointer
+  .badge
+    display: flex
+    flex-direction: column
+    flex-shrink: 0
+    align-items: center
+    padding: 24px 0px
+    border-right: 1px solid #dcdde0
+    width: 100px
+    .text, .number
+      margin-top: 2px
+      height: 40px
+      text-align: center
+    .number
+      width: auto
+      font: 900 32px Roboto, Helvetica
+    .text
+      width: 60px
+      font: 900 16px Roboto, Helvetica
+    .deal, .coupon      
+      width: 60px
+      height: 20px
+      border-radius: 5px
+      color: #FFFFFF
+      text-align: center
+      font: 400 11px Roboto, Helvetica
+      line-height: 20px
+      text-transform: uppercase
+    .deal
+      background: #119ce7
+    .coupon
+      background: #0038A8      
+  .details
+    margin: 28px 20px
+    width: 100%
+    @media only screen and (min-width: 992px)
+      width: calc(100% - 338px)
+    .text
+      font: 700 18px Roboto, Helvetica
+      overflow-wrap: break-word
+      margin-bottom: 10px
+    .bottomContainer
+      display: flex
+      flex-direction: column
+      @media only screen and (min-width: 992px)
+        flex-direction: row
+    .expiryDate
+      display: flex
+      margin-right: 16px
+      width: 50%
+      font: 400 12px Roboto, Helvetica
+      color: #808597
+      @media only screen and (min-width: 992px)
+        margin-top: 6px
+      .icon
+        flex-shrink: 0
+        margin-right: 2px
+        width: 15px
+        height: 15px
+        background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuOTk5OSA3LjAwMDM5SDYuNDk5OUM2LjQ5OTkgNy4xMzMgNi41NTI1OCA3LjI2MDE4IDYuNjQ2MzUgNy4zNTM5NEw2Ljk5OTkgNy4wMDAzOVpNNi45OTk5IDEyLjEwMDRDNC4xODMyNSAxMi4xMDA0IDEuODk5OSA5LjgxNzA0IDEuODk5OSA3LjAwMDM5SDAuODk5OTAyQzAuODk5OTAyIDEwLjM2OTMgMy42MzA5NyAxMy4xMDA0IDYuOTk5OSAxMy4xMDA0VjEyLjEwMDRaTTEyLjA5OTkgNy4wMDAzOUMxMi4wOTk5IDkuODE3MDQgOS44MTY1NSAxMi4xMDA0IDYuOTk5OSAxMi4xMDA0VjEzLjEwMDRDMTAuMzY4OCAxMy4xMDA0IDEzLjA5OTkgMTAuMzY5MyAxMy4wOTk5IDcuMDAwMzlIMTIuMDk5OVpNNi45OTk5IDEuOTAwMzlDOS44MTY1NSAxLjkwMDM5IDEyLjA5OTkgNC4xODM3NCAxMi4wOTk5IDcuMDAwMzlIMTMuMDk5OUMxMy4wOTk5IDMuNjMxNDUgMTAuMzY4OCAwLjkwMDM5MSA2Ljk5OTkgMC45MDAzOTFWMS45MDAzOVpNNi45OTk5IDAuOTAwMzkxQzMuNjMwOTcgMC45MDAzOTEgMC44OTk5MDIgMy42MzE0NSAwLjg5OTkwMiA3LjAwMDM5SDEuODk5OUMxLjg5OTkgNC4xODM3NCA0LjE4MzI1IDEuOTAwMzkgNi45OTk5IDEuOTAwMzlWMC45MDAzOTFaTTYuNDk5OSAzLjQwMDM5VjcuMDAwMzlINy40OTk5VjMuNDAwMzlINi40OTk5Wk02LjY0NjM1IDcuMzUzOTRMOS4wNDYzNSA5Ljc1Mzk0TDkuNzUzNDYgOS4wNDY4NEw3LjM1MzQ2IDYuNjQ2ODRMNi42NDYzNSA3LjM1Mzk0WiIgZmlsbD0iIzI5MzU0OCIvPgo8L3N2Zz4K")
+      .text
+        font: 300 12px Roboto, Helvetica
+        color: #808597
+    .terms
+      width: 50%
+      font: 500 12px Roboto, Helvetica
+      .label
+        display: flex
+        margin-top: 8px
+        color: 212223
+        user-select: none
+        @media only screen and (min-width: 992px)
+          margin-top: 6px
+        .icon
+          margin-top: 1px
+          margin-left: 3px
+          width: 8px
+          height: 5px
+          align-self: center
+          background-repeat: no-repeat
+          background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOCIgaGVpZ2h0PSI1IiB2aWV3Qm94PSIwIDAgOCA1IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMSAxTDQgNEw3IDEiIHN0cm9rZT0iIzIxMjIyMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=")
+      .text
+        margin-top: 6px
+        font: 400 12px Roboto
+  button
+    position: absolute
+    display: none
+    top: 30px
+    right: 24px
+    border: none
+    border-radius: 4px
+    padding: 0
+    height: 48px
+    @media only screen and (min-width: 992px)
+      display: block
+    &.coupon
+      &:before
+        box-sizing: border-box          
+        z-index: 1
+        content: ""
+        display: block
+        position: absolute
+        top: 0
+        width: 0
+        height: 48px
+        left: 139px
+        -webkit-transition: all 0.1s ease-in
+        -moz-transition: all 0.1s ease-in
+        -ms-transition: all 0.1s ease-in
+        -o-transition: all 0.1s ease-in
+        transition: all 0.1s ease-in
+        border-top: 16px solid transparent
+        border-right: 16px solid transparent
+        border-bottom: 0
+        border-left: 16px solid #C41E3A
+      &:after
+        z-index: 1
+        content: ""
+        display: block
+        position: absolute
+        width: 0
+        height: 0
+        top: 0
+        left: 139px
+        border-width: 8px
+        border-style: solid
+        border-color: transparent
+        -webkit-transition: all 0.1s ease-in
+        -moz-transition: all 0.1s ease-in
+        -ms-transition: all 0.1s ease-in
+        -o-transition: all 0.1s ease-in
+        transition: all 0.1s ease-in
+        border-left-color: #721121
+        border-bottom-color: #721121
+    .code
+      border: 1px dashed #721121
+      padding: 0 8px
+      width: 154px
+      height: 46px
+      background: #FFB9C5
+      font: 400 14px Roboto, Helvetica
+      vertical-align: middle
+      display: none
+      align-items: center
+      justify-content: right
+      color: #c41e3a
+      @media only screen and (min-width: 992px)
+        display: flex
+    .label
+      position: absolute
+      top: 0
+      left: 0
+      display: block
+      border-radius: 4px 0 0 4px
+      padding-left: 13px
+      width: 126px
+      height: 48px
+      text-align: left
+      overflow: hidden
+      white-space: nowrap
+      font: 400 14px Roboto, Helvetica
+      line-height: 48px
+      color: white
+      background: #C41E3A
+      -webkit-transition: all 0.1s ease-in
+      -moz-transition: all 0.1s ease-in
+      -ms-transition: all 0.1s ease-in
+      -o-transition: all 0.1s ease-in
+      transition: all 0.1s ease-in
+    .deal
+      padding: 0 8px
+      width: 154px
+      height: 100%
+      font: 400 14px Roboto, Helvetica
+      color: white
+      background: #C41E3A
+      text-align: center
+      vertical-align: middle
+      display: flex
+      align-items: center
+      justify-content: center
+    &:hover
+      .label
+        width: 103px !important
+      &:after
+        border-width: 16px
+        left: 116px
+
+      &:before
+        left: 116px
+        border-width: 32px
+        border-left-width: 32px
+        border-left-color: #C41E3A
+
+//
+.code-revealed.deal-items
+  .coupon
+    &:before
+      display: none
+    &:after
+      display: none
+    .label
+      display: none
+    .code
+      justify-content: center
