@@ -1,6 +1,6 @@
 export default interface Deal {
   id: number;
-  type: string;
+  type: "coupon" | "deal";
   code?: string;
   text: string;
   badge_text: string;

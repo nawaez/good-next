@@ -8,7 +8,7 @@
       "type": "coupon",
       "text": "Today only: Get $20 on Express limited time deals Hotels When Spending at Least $125!",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58418356&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58418356&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58418356?partner=hawaii",
       "terms": "",
       "code": "SUMMER2022"
@@ -20,7 +20,7 @@
       "type": "deal",
       "text": "Today only: SAVE NOW. TRAVEL LATER",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=56329184&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=56329184&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/56329184?partner=hawaii",
       "terms": "",
       "code": ""
@@ -32,7 +32,7 @@
       "type": "coupon",
       "text": "Promotion: Save $100 on Express limited time deals Hotels When Spending at Least $500!",
       "expiration_date": "Valid until 07/04/22",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58448083&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58448083&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58448083?partner=hawaii",
       "terms": "",
       "code": "SUMMER100"
@@ -44,7 +44,7 @@
       "type": "coupon",
       "text": "Special deal: Deep Linking",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423398&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423398&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423398?partner=hawaii",
       "terms": "",
       "code": "changes"
@@ -56,7 +56,7 @@
       "type": "deal",
       "text": "Limited offer: Save 15% or More on Select Hotels!",
       "expiration_date": "Valid until 07/04/22",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58409469&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58409469&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58409469?partner=hawaii",
       "terms": "",
       "code": ""
@@ -68,7 +68,7 @@
       "type": "deal",
       "text": "Promotion: Miami Hotels Up to 60% Off!",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58371495&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58371495&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58371495?partner=hawaii",
       "terms": "",
       "code": ""
@@ -80,7 +80,7 @@
       "type": "deal",
       "text": "Special deal: Atlanta Hotels Up to 60% Off!",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58371494&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58371494&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58371494?partner=hawaii",
       "terms": "",
       "code": ""
@@ -92,7 +92,7 @@
       "type": "deal",
       "text": "Today only: Up to 50% Off Top-Rated Hotels With Pricebreakers",
       "expiration_date": "Valid until 12/31/22",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=57880652&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=57880652&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/57880652?partner=hawaii",
       "terms": "",
       "code": ""
@@ -104,7 +104,7 @@
       "type": "deal",
       "text": "Limited offer: Orlando Hotels Up to 60% Off",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=56876709&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=56876709&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/56876709?partner=hawaii",
       "terms": "",
       "code": ""
@@ -116,7 +116,7 @@
       "type": "deal",
       "text": "Promotion: San Francisco CA Hotels - Up to 60% Off",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423407&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423407&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423407?partner=hawaii",
       "terms": "",
       "code": ""
@@ -128,7 +128,7 @@
       "type": "deal",
       "text": "Limited offer: Up to 60% Off Las Vegas Hotels",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=56254229&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=56254229&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/56254229?partner=hawaii",
       "terms": "Terms and Exclusions Apply, See Site for Details",
       "code": ""
@@ -140,7 +140,7 @@
       "type": "deal",
       "text": "Limited offer: Los Angeles Hotels - Up to 60% Off",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423405&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423405&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423405?partner=hawaii",
       "terms": "",
       "code": ""
@@ -152,7 +152,7 @@
       "type": "deal",
       "text": "Special deal: San Diego CA Hotels - Up to 60% Off",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423406&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423406&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423406?partner=hawaii",
       "terms": "",
       "code": ""
@@ -164,7 +164,7 @@
       "type": "deal",
       "text": "Today only: Book Your Flight Today, Best Price Guaranteed",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423404&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423404&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423404?partner=hawaii",
       "terms": "",
       "code": ""
@@ -176,7 +176,7 @@
       "type": "deal",
       "text": "Jamaica Vacation limited time deals  ",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=57293599&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=57293599&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/57293599?partner=hawaii",
       "terms": "",
       "code": ""
@@ -188,7 +188,7 @@
       "type": "deal",
       "text": "Atlantis, Bahamas Paradise Island Hotels",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58315651&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58315651&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58315651?partner=hawaii",
       "terms": "",
       "code": ""
@@ -200,7 +200,7 @@
       "type": "deal",
       "text": "Book Your Walt Disney World Vacation for Less",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=56876707&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=56876707&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/56876707?partner=hawaii",
       "terms": "",
       "code": ""
@@ -212,7 +212,7 @@
       "type": "deal",
       "text": "Find The Best limited time deals in Travel",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58423408&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58423408&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58423408?partner=hawaii",
       "terms": "",
       "code": ""
@@ -224,7 +224,7 @@
       "type": "coupon",
       "text": "Today only: Get 12% off Sitewide",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58382712&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58382712&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58382712?partner=hawaii",
       "terms": "",
       "code": "SUNSHINE12"
@@ -236,7 +236,7 @@
       "type": "coupon",
       "text": "Today only: Get $30 Off Hotel Express limited time deals of $200",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58349520&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58349520&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58349520?partner=hawaii",
       "terms": "",
       "code": "ADVENTURE30"
@@ -248,7 +248,7 @@
       "type": "coupon",
       "text": "Get 10% off Hotels Express",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58306416&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58306416&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58306416?partner=hawaii",
       "terms": "",
       "code": "97X4G29HG4S"
@@ -260,7 +260,7 @@
       "type": "coupon",
       "text": "Today only: Get 15% off Select limited time deals During This Memorial Day Sale",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58303776&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58303776&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58303776?partner=hawaii",
       "terms": "",
       "code": "YOUR15OFF"
@@ -272,7 +272,7 @@
       "type": "coupon",
       "text": "Coupon promo code for 12% Off Your Order",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58282076&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58282076&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58282076?partner=hawaii",
       "terms": "",
       "code": "12FORYOU"
@@ -284,7 +284,7 @@
       "type": "coupon",
       "text": "Promotion: Coupon promo code for $21 Express limited time deal Coupon",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58202267&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58202267&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58202267?partner=hawaii",
       "terms": "",
       "code": "NEWYEAR21"
@@ -296,7 +296,7 @@
       "type": "coupon",
       "text": "Today only: 10% When You Plan Ahead!",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58202268&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58202268&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58202268?partner=hawaii",
       "terms": "",
       "code": "SAVENOW20"
@@ -308,7 +308,7 @@
       "type": "coupon",
       "text": "Limited offer: Get $25 Off W/Coupon promo code",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58202265&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58202265&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58202265?partner=hawaii",
       "terms": "",
       "code": "HOLIDAY25"
@@ -320,7 +320,7 @@
       "type": "coupon",
       "text": "Special deal: Get $50 Off on Your Order With promo code",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58202266&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58202266&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58202266?partner=hawaii",
       "terms": "",
       "code": "HOLIDAY50"
@@ -332,7 +332,7 @@
       "type": "coupon",
       "text": "Today only: Get $50 on Express limited time deal Hotels!",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58202264&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58202264&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58202264?partner=hawaii",
       "terms": "",
       "code": "GROUNDHOG"
@@ -344,7 +344,7 @@
       "type": "coupon",
       "text": "Promotion: Get 5% off Express limited time deals & Select Pay Now Hotels",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58162139&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58162139&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58162139?partner=hawaii",
       "terms": "",
       "code": "CFSPRINGHTL5"
@@ -356,7 +356,7 @@
       "type": "coupon",
       "text": "Get 15% off Express limited time deals With Coupon",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=58045754&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=58045754&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/58045754?partner=hawaii",
       "terms": "",
       "code": "YOUSAVE15"
@@ -368,7 +368,7 @@
       "type": "coupon",
       "text": "Promotion: Coupon promo code for 10% Off With Priceline",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=57932535&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=57932535&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/57932535?partner=hawaii",
       "terms": "",
       "code": "SKISALE10"
@@ -380,7 +380,7 @@
       "type": "coupon",
       "text": "Today only: Get $20 Off Hertz Weekend Car Rentals",
       "expiration_date": "Valid until further notice",
-      "modal_url": "https://qa.goodshop.com/partners/hawaii/coupons/priceline.com?open=57823092&partner=hawaii",
+      "modal_url": "/coupons/priceline.com?open=57823092&partner=hawaii",
       "deal_url": "https://qa.goodshop.com/deals/57823092?partner=hawaii",
       "terms": "",
       "code": "133906"

@@ -12,8 +12,8 @@ const Home: NextPage = () => {
       <main>
         <div className={style.linkContainer}>
           <h1>Coupon Pages</h1>
-          <div><Link href="/coupons/orbitz">Orbitz</Link></div>
-          <div><Link href="/coupons/priceline">Priceline</Link></div>
+          <div><Link href="/coupons/orbitz.com">Orbitz</Link></div>
+          <div><Link href="/coupons/priceline.com">Priceline</Link></div>
         </div>
       </main>
     </div>

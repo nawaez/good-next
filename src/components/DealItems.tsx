@@ -1,13 +1,14 @@
 import Deal from '../interfaces/deal';
 import style from '../styles/DealItems.module.sass';
+import openUrls from '../lib/openUrls';
 
-export default function DealItems({ deals, setModal }: { deals: Deal[], setModal: (deal: Deal) => void; }) {
+export default function DealItems({ deals }: { deals: Deal[]; }) {
   return (
     <div className={style.dealItems}>
       {deals.map((deal) => {
         return (
           <div key={deal.id}>
-            <DealItem deal={deal} dealClick={setModal} />
+            <DealItem deal={deal} dealClick={handleClick} />
           </div>
         );
       })}
@@ -48,4 +49,12 @@ function DealItem({ deal, dealClick }: { deal: Deal, dealClick: (deal: Deal) => 
       </button>
     </div>
   );
+}
+
+function handleClick(deal: Deal) {
+  if (deal.type === "coupon") {
+    openUrls(deal.modal_url, deal.deal_url);
+  } else {
+    openUrls(deal.deal_url, deal.modal_url);
+  }
 }
