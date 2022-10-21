@@ -25,7 +25,7 @@ export default function CouponsShow({ data }: { data: Data; }) {
 }
 
 export async function getServerSideProps({ params }: { params: { merchant_urlname: string, open?: string; }; }) {
-  const req = await fetch(`http://localhost:3000/deal-data/${params.merchant_urlname}.json`);
+  const req = await fetch(`/deal-data/${params.merchant_urlname}.json`);
   const data = await req.json();
 
   return {
